@@ -1,0 +1,17 @@
+D:\Code\Visual Basic\WinApp\bin\Debug\net6.0-windows\WinApp.exe
+D:\Code\Visual Basic\WinApp\bin\Debug\net6.0-windows\WinApp.deps.json
+D:\Code\Visual Basic\WinApp\bin\Debug\net6.0-windows\WinApp.runtimeconfig.json
+D:\Code\Visual Basic\WinApp\bin\Debug\net6.0-windows\WinApp.dll
+D:\Code\Visual Basic\WinApp\bin\Debug\net6.0-windows\WinApp.pdb
+D:\Code\Visual Basic\WinApp\obj\Debug\net6.0-windows\WinApp.vbproj.AssemblyReference.cache
+D:\Code\Visual Basic\WinApp\obj\Debug\net6.0-windows\WinApp.Form1.resources
+D:\Code\Visual Basic\WinApp\obj\Debug\net6.0-windows\WinApp.vbproj.GenerateResource.cache
+D:\Code\Visual Basic\WinApp\obj\Debug\net6.0-windows\WinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Visual Basic\WinApp\obj\Debug\net6.0-windows\WinApp.AssemblyInfoInputs.cache
+D:\Code\Visual Basic\WinApp\obj\Debug\net6.0-windows\WinApp.AssemblyInfo.vb
+D:\Code\Visual Basic\WinApp\obj\Debug\net6.0-windows\WinApp.vbproj.CoreCompileInputs.cache
+D:\Code\Visual Basic\WinApp\obj\Debug\net6.0-windows\WinApp.dll
+D:\Code\Visual Basic\WinApp\obj\Debug\net6.0-windows\refint\WinApp.dll
+D:\Code\Visual Basic\WinApp\obj\Debug\net6.0-windows\WinApp.pdb
+D:\Code\Visual Basic\WinApp\obj\Debug\net6.0-windows\WinApp.genruntimeconfig.cache
+D:\Code\Visual Basic\WinApp\obj\Debug\net6.0-windows\ref\WinApp.dll
